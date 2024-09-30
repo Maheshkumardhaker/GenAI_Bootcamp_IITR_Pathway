@@ -9,7 +9,7 @@ This project showcases the creation of a Generative AI pipeline utilizing Pathwa
 
 ## Video demo of the project
 
-
+https://drive.google.com/file/d/1tFqyaTgXYhuzjPzs6S32WRtr44u6b1me/view?usp=sharing
 
 ## Purpose of the project
 The objective of this project is to build a scalable question-answering system by leveraging Pathway’s real-time processing capabilities and OpenAI's models for embeddings and language understanding. The application retrieves data from various sources, converts it into structured formats, and allows users to query the data via an HTTP API.
